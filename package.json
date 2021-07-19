@@ -9,7 +9,7 @@
     "next": "^10.0.7"
   },
   "engines": {
-    "node": "15.x",
+    "node": "16.x",
     "npm": "7.x"
   },
   "devDependencies": {
