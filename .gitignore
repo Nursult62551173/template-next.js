@@ -1,4 +1,5 @@
 !.vscode
+.env.local
 .next
 .vercel
 node_modules
