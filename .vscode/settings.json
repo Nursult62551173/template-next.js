@@ -7,8 +7,9 @@
     "*.css": "postcss"
   },
   "files.exclude": {
+    "**/.husky": true,
     "**/.next": true,
-    "**/node_modules": true,
-    "**/.vercel": true
+    "**/.vercel": true,
+    "**/node_modules": true
   }
 }
